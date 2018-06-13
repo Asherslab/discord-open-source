@@ -1,6 +1,13 @@
 {
   "data": [
     {
+      "logo": "ldtlogo.svg",
+      "title": "LDT",
+      "quote": "Discord has helped us create a large and active community that contributes much to our projects. We have also been able to find many other contribures via Discord.",
+      "inviteCode": "zjA75K8",
+      "githubUrl": "https://github.com/ldtteam"
+    }
+    {
       "logo": "yarnpkg.svg",
       "title": "Yarnpkg",
       "quote": "Discord helped us get in touch with Yarn's contributors, and empowered them to become maintainers in the process.",
